@@ -4,7 +4,7 @@ import matplotlib.pylab as plt
 import seaborn as sns
 import os
 from glob import glob
-from typing import Dict, Tuple, List, 
+from typing import Dict, Tuple, List
 
 
 import librosa
